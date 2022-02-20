@@ -5,4 +5,6 @@ Right click → Flag\
 Left Click → Place Guess
 
 LINES 52 AND 52 can be used to change the dimensions of the board and the number of mines\
-(Length, Height, Mines)
+(Length, Height, Mines)\
+\
+Some code cleanup will be done in the future!
