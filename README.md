@@ -9,5 +9,5 @@ Clicking in a tile which has all the flags in place will automatically guess all
 
 LINES 59 AND 60 (in Main.py) can be used to change the dimensions of the board and the number of mines\
 (Length, Height, Mines)\
-\
+
 
