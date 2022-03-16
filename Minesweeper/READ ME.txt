@@ -1,0 +1,13 @@
+Space to toggle between ai and human view
+Black means more certain that there is a bomb
+Red means it ai thinks square is safe
+
+clicking a number which has the aproprate amount of flags (regardless if they are placed correctly or not) will automaticley guess all the ajacent squares
+
+In main.py ln(60)
+change the values to (BoardHeight,Board With,Mines)
+^MAKE THIS A SQUARE BOARD PLEEEEEASE
+
+Ai works by adding the possible flags divided by the amount of sapces to all ajacent spaces to a tile which has a number
+Squares with the correct amount of flags and that still have spaces remaining will be marked as red.
+
